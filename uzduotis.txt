@@ -1,0 +1,26 @@
+Tikslas: sukurti picos uzsakymo sistema.
+
+Uzduoties aprasymas
+-------------------
+Paleidus programa klientas turi pasirinkti is meniu, ka nores uzsisakyti.
+Jam parodomas picu/padazu/gerimu sarasas su kainomis.
+Meniu (arba jo dalis) turi buti nuskaitomas is tekstinio failo ir surikiuotas pagal
+pavadinima arba kainas (rikiuojama ne faile, o vykdymo metu).
+Po pasirinkimo apskaiciuojama galutine uzsakymo suma.
+Klientas turi tureti galimybe atsisakyti arba formuoti uzsakyma is naujo.
+T.y. uzsakymas nera vykdomas kol negaunamas patvirtinimas.
+Po patvirtinimo, klientui atspausdinama saskaita su uzsakytais produktais.
+Cekyje turi buti uzsakymo data ir laikas. Taip pat preliminarus vykdymo terminas (pvz. +10 min).
+
+Technine dalis
+--------------
+PizzeriaMain - veiksmo vieta
+
+MenuItem - interfeisas arba abstrakti klase maistui
+
+Drink - interfeisas arba abstrakti klase gerimams (galimos implementacijos: Beer, Water (still, sparkling), SoftDrink, 
+Tea (sugar, honey), Coffee (sugar, milk) ir t.t.)
+
+Food - interfeisas maistui (galimos implementacijos: Pizza, Wrap, Tortilla ir t.t.)
+
+Sauce - enumas
