@@ -1,0 +1,11 @@
+Pizza;Malibu;sudetis: mozzarela, saliami, raudonieji pipirai;4.15
+Pizza;Valtorno;sudetis: mozzarela, saliami,ananasai, zalieji pipirai;5.10
+Beer;Varniuku; Alk. 5 proc. turio;2.40
+Beer;Utenos; Alk. 4,5 proc. turio;2.20
+Water;Drink water;0,2l;1.00;
+Water;Stalo vanduo;0,33l;1.25;
+SoftDrink;Soft drink;soft drink 0,2 l; 1.00
+Pizza;Velzopu;sudetis: desrele, kiausai;9.50
+Pizza;Kiss;sudetis: desrele, suris;7.50
+Tortilla;Tortilia;su salotom;2.34
+Wrap;Wrapis; ;1.99
